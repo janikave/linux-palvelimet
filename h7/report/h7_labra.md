@@ -9,7 +9,7 @@
 - **Nimi**: Jani Kavekari
 - **Kotitehtävät**: [janikave: linux-palvelimet](https://github.com/janikave/linux-palvelimet)
 
-KUVA(labra_a.png)
+![Add file: Upload](labra_a.png)
 
 ### b) Tiivistelmä 
 
@@ -21,19 +21,19 @@ KUVA(labra_a.png)
 
 ### c) Käyttikset[^3]
 
-KUVA (labra_c.png)
+![Add file: Upload](labra_c.png)
 
 ### d) Howdy[^4]
 
-KUVA (labra_d.png)
+![Add file: Upload](labra_d.png)
 
 ### e) Etusivu uusiksi[^3][^5]
 
-KUVA (labra_e.png)
+![Add file: Upload](labra_e.png)
 
 ### f) Salattua hallintaa[^3][^5]
 
-KUVA (labra_f.png)
+![Add file: Upload](labra_f.png)
 
 ### g)  Djangon lahjat
 
